@@ -1,0 +1,6 @@
+D:\WORK\github\StoriesNoLog\StoriesProject\Story1_TamCam\bin\Story1_TamCam.dll.config
+D:\WORK\github\StoriesNoLog\StoriesProject\Story1_TamCam\bin\Story1_TamCam.dll
+D:\WORK\github\StoriesNoLog\StoriesProject\Story1_TamCam\bin\Story1_TamCam.pdb
+D:\WORK\github\StoriesNoLog\StoriesProject\Story1_TamCam\obj\Debug\Story1_TamCam.csprojResolveAssemblyReference.cache
+D:\WORK\github\StoriesNoLog\StoriesProject\Story1_TamCam\obj\Debug\Story1_TamCam.dll
+D:\WORK\github\StoriesNoLog\StoriesProject\Story1_TamCam\obj\Debug\Story1_TamCam.pdb
